@@ -1,4 +1,4 @@
-# <K4G3S3C>
+# K4G3S3C
 
 CTF team from **1337 MED (42 Network)**.
 
