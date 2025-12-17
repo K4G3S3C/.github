@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/logo.gif" width="180" alt="K4G3S3C Logo">
+</p>
+
 # K4G3S3C
 
-CTF team from **1337 MED (42 Network)**.
+CTF team from 1337 MED (42 Network).
 
 ## Members
 - **W4ST3D** — https://github.com/riel-fas
