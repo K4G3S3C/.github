@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/K4G3S3C.png" width="180" alt="K4G3S3C Logo">
+  <img src="/assets/K4G3S3C.png" width="180" alt="K4G3S3C Logo">
 </p>
 
 # K4G3S3C
